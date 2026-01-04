@@ -237,7 +237,7 @@ For technical support or questions:
 
 This application is developed for the Ministry of Statistics and Programme Implementation (MoSPI) as part of the AI-enhanced data processing initiative.
 
----
+-----
 
 **Developed for**: Ministry of Statistics and Programme Implementation (MoSPI)  
 **Purpose**: Automated Data Preparation, Estimation and Report Writing  
